@@ -5,4 +5,8 @@
     <NuspecProperties>version=$(Version)</NuspecProperties>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Money.NET" Version="0.0.2-alpha" />
+  </ItemGroup>
+
 </Project>
