@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Money.NET" Version="0.0.2-alpha" />
+    <PackageReference Include="Money.NET" Version="0.0.6-alpha" />
   </ItemGroup>
 
 </Project>
